@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header1{
+    background-color:crimson;
+    color: white;
+    height: 70px;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+    .header1 >h1{
+        line-height: 60px;
+        margin-left: 40px;
+        float: left;
+        line-height: 50px;
+        margin-bottom: 50px;
+        font-size:large;
+        
+
+    
+}
+.header1>h1>img{
+    height: 70px;
+    width:fit-content;
+}
+
+.header1>h2>{
+    height: 80px;
+    line-height: 50px;
+    margin-top: 50px;
+    float: left;
+}
+
+.header1>ul{
+    list-style-type: none;
+    display: flex;
+    float: right;
+    line-height: 80px;
+    
+
+}
+
+.cakephp{
+    margin-right: 480px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.Documentation,.Swag,.Business-Solutions, .Team,.Community,.en{
+    margin-right: 20px;
+    font-weight: bold;
+    
+}
+.Donate{
+    background-color: black;
+    height: 70px;
+    width: 60px;
+    text-align:center;
+}
+a{
+    color:inherit;
+    text-decoration:none;
+}
+
+.div2{
+    background-color:rgb(36, 6, 36);
+    height:400px;
+    width: 80%;
+    color: white;
+    margin-left: 120px;
+    margin-top: 75px;
+    margin-bottom: 60px;
+
+}
+.div2>.left-section>h1{
+    color: crimson;
+    margin-top: 60px;
+    margin-left: 35px;
+}
+.div2>.left-section>h2{
+    color: white;
+    margin-left: 35px;
+    font-weight: lighter;
+    font-size: 32px
+}
+.left-section{
+    float: left;
+}
+
+.div2>left-section{
+    color: crimson;
+    margin-left:50px;
+    line-height: 80px;
+}
+.div2>left-section{
+    color: white;
+    font-size:35px ;
+    font-style: normal;
+    margin-top: 20px;
+    margin-left: 50px;
+
+}
+.right-section{
+background-image:url('cake-banner.svg');
+width: 400px;
+height: 500px;
+background-repeat: no-repeat;
+margin-left: 630px;
+margin-bottom:1000px;
+
+
+
+}
+
+
+.install,.Docs,.API{
+
+    width:120px;
+    height: 50px;
+    /* border-radius: 20%; */
+    border-top-left-radius: 35%;
+    border-bottom-right-radius:35%;
+    margin-top: 50px;
+    margin-left: 25px;
+    font-weight: bold;
+}
+.install{
+    background-color: crimson;
+    color: white;
+    border-color: crimson;
+   
+}
+.Docs,.API{
+    background-color: white;
+    color: crimson;
+    border-color: white;
+}
+
+.div3{
+    height: 700px;
+    width: 580px;
+    background-color:white;
+    background-image:url('human-div3.svg');
+    background-repeat: no-repeat;
+    margin-left: 70px;
+    margin-top: 50px;
+    float: left;
+    
+}
+
+    .div4{
+        background-color:white;
+        color: black;
+        height: 600px;
+        width: 600px;
+        margin-top: 50px;
+        float: left;
+        font-size: 16px;
+        font-weight;
+        
+        
+    }
+
+    .div4>ul{
+        list-style-type: disc;
+      }
+
+      .div5{
+      background-color: white;
+        margin-top: 300px;
+        text-align: center;
+        clear: both;
+        font-style: italic;
+
+      }
+
+      
+
+
+.div6,.div7,.div8,.div9,.div10,.div11{
+    background-color:white;
+    height: 200px;
+    width: 200px;
+    /* margin-top: 20px; */
+    margin-left: 100px;
+    float: left ;
+
+}
+
+.div6,.div7,.div8{
+
+    margin-top: 40px;
+    margin-right:60px ;
+    padding: 40px;
+}
+
+.div9,.div10,.div11{
+    margin-right:60px;
+    margin-top: 100px;
+    /* padding: 40px; */
+    float: left;
+    box-sizing: border-box;
+    background-color: black;
+    padding-top: 200px;
+    
+
+}
+
+.div12{
+        width: 300px;
+        height: 300px;
+        margin-top: 400px;
+        float: left;
+              
+}
+
+.div13{
+    height:200px;
+    width: 300px;
+    background-color: bisque;
+    float: left;
+    
+}
+
+
+.Learn-more{
+    width:140px;
+    height: 45px;
+    /* border-radius: 20%; */
+    border-top-left-radius: 45%;
+    border-bottom-right-radius:45%;
+    margin-top: 50px;
+    margin-left: 25px;
+    font-weight: bold;
+    background-color: crimson;
+    color: white;
+    border-color: crimson;
+}
+
